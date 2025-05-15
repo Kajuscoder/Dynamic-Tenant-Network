@@ -1,4 +1,4 @@
-# Dynamic-Tenant-Network
+# Proof Of Concept
 
 ## Dependency
 This Proof-Of-Concept project uses “cpprest” library to build the HTTP Servers. The system where this project is being built needs have this library installed. Installation procedure will depend upon the operating system involved. For example, in a Debian/Ubuntu system, it can be installed using following command, 
