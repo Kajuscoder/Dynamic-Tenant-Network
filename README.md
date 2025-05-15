@@ -10,13 +10,17 @@ For detailed installation procedure in other systems, the official documentation
 
 ## Build the Web-Server
 Create build folder	
-  $ cmake -B <build-folder>
+
+    $ cmake -B <build-folder>
+
 Compile the project	
-  $ cmake --build <build-folder>
+
+    $ cmake --build <build-folder>
 
 ## Start the Web-Server
 From a terminal 	
-  $ ./build/httpServerProto
+    
+    $ ./build/httpServerProto
 
 ## Quit the Web-Server
 Just press “Enter” in the terminal where the server is running.  	
