@@ -57,8 +57,7 @@
                       "type": "string"
                     },
                     "local_interface": {
-                      "type": "string",
-                      "required": true
+                      "type": "string"
                     }
                   }
                 }
@@ -224,7 +223,8 @@
                     "required": true
                   },
                   "local_interface": {
-                    "type": "string"
+                    "type": "string",
+                    "required": true
                   }
                 }
               }
